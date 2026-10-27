@@ -1,0 +1,7 @@
+# Refleksi Tugas Pertemuan 1
+
+Platform yang paling menarik bagi saya adalah platform Web karena aplikasi web dapat diakses melalui browser tanpa harus memasang aplikasi secara terpisah pada setiap komputer. Selain itu, pengembangan web memungkinkan aplikasi digunakan pada berbagai perangkat selama browser mendukung fitur yang diperlukan. Saya ingin mempelajari lebih lanjut cara membuat aplikasi web yang memiliki tampilan menarik, mudah digunakan, dan dapat menyimpan data dengan baik.
+
+Tantangan terbesar dalam menyiapkan lingkungan pemrograman adalah memastikan semua perangkat lunak terpasang dan dapat dijalankan melalui Command Prompt. Pada awalnya, saya mengalami kesulitan saat berpindah ke folder repository dan menjalankan perintah Git. Saya juga perlu mengatur identitas Git sebelum dapat melakukan commit. Tantangan tersebut membantu saya memahami bahwa penggunaan Git tidak hanya memerlukan instalasi, tetapi juga konfigurasi dan pemahaman perintah dasar.
+
+Untuk mengatasi kendala tersebut, saya akan berlatih menggunakan perintah Git seperti `git status`, `git add`, `git commit`, dan `git push`. Saya juga akan membaca dokumentasi resmi serta mencoba membuat proyek kecil secara bertahap. Dengan latihan rutin, saya berharap lebih terbiasa mengelola kode sumber, menggunakan GitHub, dan mengembangkan aplikasi sesuai kebutuhan tugas perkuliahan.
